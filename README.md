@@ -5,6 +5,8 @@ This is an open-source programmable motion detector to switch a voltage when som
 This consists of an ATTiny85 which can be programmed. GPIO2 is detecting if a motion has happened and GPIO1 is triggering the MOSFET. To flash a ATTiny85 you can follow this tutorial: [http://highlowtech.org/?p=1695](http://highlowtech.org/?p=1695)
 I am using an Adruino Pro Mini and a TTL USB Stick.
 
+### [EasyEDA Public Project](https://easyeda.com/mirko.haeberlin/replace-light-switch)
+
 ### Gerber
 [Gerber file](./Gerber_motion-detector.zip)
 
