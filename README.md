@@ -7,12 +7,9 @@ I am using an Adruino Pro Mini and a TTL USB Stick.
 
 ### [EasyEDA Public Project](https://easyeda.com/mirko.haeberlin/replace-light-switch)
 
-### Gerber
-[Gerber file](./Gerber_motion-detector.zip)
-
+### [Gerber file](./Gerber_motion-detector.zip)
 <img src="./img/pcb_front.svg">
 <img src="./img/pcb_back.svg">
 
-### Schematic
-[Schematic](./Schematic_motion-detector.pdf)
+### [Schematic Pdf](./Schematic_motion-detector.pdf)
 <img src="./img/Schematic_motion-detector.png">
