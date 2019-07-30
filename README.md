@@ -13,4 +13,4 @@ I am using an Adruino Pro Mini and a TTL USB Stick.
 
 ### Schematic
 [Schematic](./Schematic_motion-detector.pdf)
-<img src="./Schematic_motion-detector.pdf">
+<img src="./img/Schematic_motion-detector.png">
