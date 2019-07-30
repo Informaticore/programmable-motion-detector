@@ -1,4 +1,4 @@
-# programmable-motion-detector
+# Programmable Motion Detector
 
 This is an open-source programmable motion detector to switch a voltage when some movement happened. The actual motion sensor is the [RCWL0516](https://github.com/jdesbonnet/RCWL-0516) which you can get for cheap on Amazon or eBay.
 
